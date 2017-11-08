@@ -31,12 +31,20 @@
 
 （2）Convolution1dComponent
 
+将输入特征转换为二维矩阵（类似于图像）进行卷积
+
 （3）MaxpoolingComponent
+
+降维和去除扰动
 
 （4）NormalizeComponent
 
+归一化
+
 （5）AffineComponentPreconditionedOnline
+
+全连接层的权重参数层，在Kaldi中，一层网络被拆成权重层和非线性变换层，权重层保存了网络的连接参数W，参数是可以修改的，而非线性变换层是固定的
 
 （6）SoftmaxComponent
 
-
+一旦定义后，非线性变换层就是固定的
