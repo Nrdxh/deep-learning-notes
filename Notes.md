@@ -1,4 +1,4 @@
-# Kaldi Learning Notes
+# Neural Network Learning Notes
 
 ## 1 卷积神经网络CNN由输入层、巻积层、激活函数、池化层、全连接层，input-conv-relu-pool-fc 
 
