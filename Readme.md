@@ -48,3 +48,12 @@
 （6）SoftmaxComponent
 
 一旦定义后，非线性变换层就是固定的
+
+## 3 VGG网络（Visual Geometry Group,University of Oxford）
+[](http://www.robots.ox.ac.uk/~vgg/research/very_deep/)
+
+[论文导读](https://arxiv.org/abs/1409.1556)
+
+**depth对神经网络的影响、卷积核比较小3 x 3**
+input RGB 224 x 224 唯一的处理是：3通道分别减去RGB通道的均值，使用3 x 3的卷积核 卷积核之后跟着3层Fully-Conneted layers全连接层 前两层4096通道，最后一层激活函数用的softmax，其他的为RELU
+
