@@ -49,8 +49,7 @@
 
 一旦定义后，非线性变换层就是固定的
 
-## 3 VGG网络（Visual Geometry Group,University of Oxford）
-http://www.robots.ox.ac.uk/~vgg/research/very_deep/
+## 3 VGG网络[（Visual Geometry Group,University of Oxford）](http://www.robots.ox.ac.uk/~vgg/research/very_deep/)
 
 [论文导读](https://arxiv.org/abs/1409.1556)
 
