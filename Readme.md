@@ -123,7 +123,7 @@ correct 缩影对比
 
 #### optimize(loss, learning_rate, global_step):
 
-梯度下降发
+梯度下降法
 
 optimizer = tf.train.GradientDescentOptimizer(learning_rate=learning_rate)
 
