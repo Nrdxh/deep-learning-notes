@@ -56,7 +56,7 @@
 **depth对神经网络的影响、卷积核比较小3 x 3**
 input RGB 224 x 224 唯一的处理是：3通道分别减去RGB通道的均值，使用3 x 3的卷积核 卷积核之后跟着3层Fully-Conneted layers全连接层 前两层4096通道，最后一层激活函数用的softmax，其他的为RELU
 
-![](https://github.com/Nrdxh/TensorFlow/blob/master/Install/image/anaconda-install.png?raw=true)
+![](https://github.com/Nrdxh/deep-learning-notes/blob/master/image/vgg.jpg?raw=true)
 
 **训练过程**
 
