@@ -128,3 +128,7 @@ correct 缩影对比
 optimizer = tf.train.GradientDescentOptimizer(learning_rate=learning_rate)
 
 train_op = optimizer.minimize(loss, global_step=global_step)
+
+
+# TIMIT kaldi 实例运行过程
+http://blog.csdn.net/shmilyforyq/article/details/75258259
