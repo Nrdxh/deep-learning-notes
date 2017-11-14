@@ -133,4 +133,4 @@ train_op = optimizer.minimize(loss, global_step=global_step)
 # TIMIT kaldi 实例运行过程
 http://blog.csdn.net/shmilyforyq/article/details/75258259
 
-[简书Kaldi-Timit脚本]http://www.jianshu.com/p/5978380c3f82
+[简书Kaldi-Timit脚本]（http://www.jianshu.com/p/5978380c3f82）
