@@ -138,6 +138,8 @@ http://blog.csdn.net/shmilyforyq/article/details/75258259
 # tensorflow 波士顿房价csv数据实例
 http://blog.csdn.net/mvs2008/article/details/75577459
 
+http://blog.csdn.net/woaidapaopao/article/details/73007741?locationNum=10
+
 Github上除了有TensorFlow的源码库之外，还有一些很不错的适合入门的资源。现在将目前已经接触到的资源整理出来，和大家分享。
 
 1、TensorFlow源码库
@@ -157,3 +159,4 @@ https://github.com/aymericdamien/TensorFlow-Examples
 
 TensorFlow学习课程：
 http://learningtensorflow.com/index.html
+
