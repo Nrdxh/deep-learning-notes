@@ -136,17 +136,22 @@ http://blog.csdn.net/shmilyforyq/article/details/75258259
 [简书Kaldi-Timit脚本](http://www.jianshu.com/p/5978380c3f82)
 
 # tensorflow 波士顿房价csv数据实例
-[http://blog.csdn.net/mvs2008/article/details/75577459]
+http://blog.csdn.net/mvs2008/article/details/75577459
 
 Github上除了有TensorFlow的源码库之外，还有一些很不错的适合入门的资源。现在将目前已经接触到的资源整理出来，和大家分享。
+
 1、TensorFlow源码库
 https://github.com/tensorflow/tensorflow
+
 2、TensorFlow中文文档
 https://github.com/jikexueyuanwiki/tensorflow-zh
+
 3、TensorFlow入门例子库1，每个例子都有对应的Notebook说明。
 https://github.com/pkmital/tensorflow_tutorials
+
 4、TensorFlow入门例子库2
 https://github.com/nlintz/TensorFlow-Tutorials
+
 5、TensorFlow入门例子库3，每个例子都有对应的Notebook说明。
 https://github.com/aymericdamien/TensorFlow-Examples
 
