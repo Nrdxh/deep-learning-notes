@@ -134,3 +134,6 @@ train_op = optimizer.minimize(loss, global_step=global_step)
 http://blog.csdn.net/shmilyforyq/article/details/75258259
 
 [简书Kaldi-Timit脚本](http://www.jianshu.com/p/5978380c3f82)
+
+# tensorflow 波士顿房价csv数据实例
+[http://blog.csdn.net/mvs2008/article/details/75577459]
