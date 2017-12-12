@@ -129,6 +129,10 @@ optimizer = tf.train.GradientDescentOptimizer(learning_rate=learning_rate)
 
 train_op = optimizer.minimize(loss, global_step=global_step)
 
+#LSTM网络理解
+http://www.jianshu.com/p/9dc9f41f0b29
+
+
 
 # TIMIT kaldi 实例运行过程
 http://blog.csdn.net/shmilyforyq/article/details/75258259
